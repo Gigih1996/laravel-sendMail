@@ -12,7 +12,7 @@ class SendEmailController extends Controller
     public function index()
     {
         return view('emails');
-        Mail::to('gsatriono@gmail.com')->send(new NotifyMail());
+        Mail::to('jayasumantri@hotmail.com')->send(new NotifyMail());
 
         if (Mail::failures()) {
             return response()->Fail('Sorry! Please try again latter');
