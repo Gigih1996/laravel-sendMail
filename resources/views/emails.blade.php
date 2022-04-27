@@ -170,13 +170,10 @@
                                                                 <div class="text-header"
                                                                     style="color:#666666; font-family:Arial, sans-serif; min-width:auto !important; font-size:12px; line-height:16px; text-align:left">
                                                                     <a href="#" target="_blank" class="link-1"
-                                                                        style="color:#666666; text-decoration:none"><span
-                                                                            class="link-1"
-                                                                            style="color:#666666; text-decoration:none"><img
-                                                                                src="https://d1pgqke3goo8l6.cloudfront.net/ZBZBRNHoQoCRD4F8SSN0_ico_webversion.jpg"
-                                                                                border="0" width="14" height="16" alt=""
-                                                                                style="vertical-align: middle;" />&nbsp;
-                                                                            HelpDesk</span></a>
+                                                                        style="color:#666666; text-decoration:none">
+                                                                        <span class="link-1"
+                                                                            style="color:#666666; text-decoration:none">HelpDesk</span>
+                                                                    </a>
                                                                 </div>
                                                             </td>
                                                             <td>
@@ -236,12 +233,14 @@
                                                     &nbsp;</td>
                                             </tr>
                                         </table>
-                                        <div class="img-center"
+                                        {{-- <div class="img-center"
                                             style="font-size:0pt; line-height:0pt; text-align:center">
-                                            <a href="#" target="_blank"><img
+                                            <a href="#" target="_blank">
+                                                <img
                                                     src="https://d1pgqke3goo8l6.cloudfront.net/3Bvp1prkTtGdFMgsCg6p_logo.jpg"
-                                                    border="0" width="203" height="27" alt="" /></a>
-                                        </div>
+                                                    border="0" width="203" height="27" alt="" />
+                                            </a>
+                                        </div> --}}
                                         <table width="100%" border="0" cellspacing="0" cellpadding="0"
                                             class="spacer"
                                             style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">
@@ -251,19 +250,6 @@
                                                     &nbsp;</td>
                                             </tr>
                                         </table>
-                                        {{-- <div class="hide-for-mobile">
-							<div class="text-nav" style="color:#ffffff; font-family:Arial, sans-serif; min-width:auto !important; font-size:12px; line-height:22px; text-align:center">
-								<a href="#" target="_blank" class="link-white" style="color:#ffffff; text-decoration:none"><span class="link-white" style="color:#ffffff; text-decoration:none">HOME</span></a>
-								&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#" target="_blank" class="link-white" style="color:#ffffff; text-decoration:none"><span class="link-white" style="color:#ffffff; text-decoration:none">NEW PRODUCTS</span></a>
-								&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#" target="_blank" class="link-white" style="color:#ffffff; text-decoration:none"><span class="link-white" style="color:#ffffff; text-decoration:none">CATALOGUE</span></a>
-								&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#" target="_blank" class="link-white" style="color:#ffffff; text-decoration:none"><span class="link-white" style="color:#ffffff; text-decoration:none">CONTACT US</span></a>
-							</div>
-							<table width="100%" border="0" cellspacing="0" cellpadding="0" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">
-							<tr>
-								<td height="20" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td>
-							</tr>
-							</table>
-						</div> --}}
                                     </td>
                                     <td class="content-spacing" style="font-size:0pt; line-height:0pt; text-align:left"
                                         width="20"></td>
@@ -334,7 +320,7 @@
                                                                 </table>
                                                                 <div class="h3-2-center"
                                                                     style="color:#1e1e1e; font-family:Arial, sans-serif; min-width:auto !important; font-size:20px; line-height:26px; text-align:center; letter-spacing:5px">
-                                                                    LOREM IPSUM</div>
+                                                                    TICKETING</div>
                                                                 <table width="100%" border="0" cellspacing="0"
                                                                     cellpadding="0" class="spacer"
                                                                     style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">
@@ -346,7 +332,7 @@
                                                                 </table>
                                                                 <div class="h2"
                                                                     style="color:#ffffff; font-family:Georgia, serif; min-width:auto !important; font-size:60px; line-height:64px; text-align:center">
-                                                                    <em>Update!</em>
+                                                                    <em>HelpDesk!</em>
                                                                 </div>
                                                                 <table width="100%" border="0" cellspacing="0"
                                                                     cellpadding="0" class="spacer"
@@ -387,21 +373,45 @@
                                                                     <tr>
                                                                         <td height="35" class="spacer"
                                                                             style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">
-                                                                            &nbsp;</td>
+                                                                            &nbsp;
+                                                                        </td>
                                                                     </tr>
                                                                 </table>
                                                                 <div class="h3-1-center"
                                                                     style="color:#1e1e1e; font-family:Georgia, serif; min-width:auto !important; font-size:20px; line-height:26px; text-align:center">
-                                                                    Your account settings have been updated.</div>
-                                                                <table width="100%" border="0" cellspacing="0"
-                                                                    cellpadding="0" class="spacer"
-                                                                    style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">
-                                                                    <tr>
-                                                                        <td height="5" class="spacer"
-                                                                            style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">
-                                                                            &nbsp;</td>
-                                                                    </tr>
-                                                                </table>
+                                                                    Thank, Your account have been created.
+                                                                </div>
+                                                                <div class="h3-1-left"
+                                                                    style="color:#1e1e1e; font-family:Georgia, serif; min-width:auto !important; font-size:15px; line-height:26px; text-align:left; margin:0 25%">
+                                                                    <table>
+                                                                        <tr>
+                                                                            <th>Username</th>
+                                                                            <td>:</td>
+                                                                            <td>Gigih Satriono</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <th>Email</th>
+                                                                            <td>:</td>
+                                                                            <td>Gsatriono@gmail.com</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <th>Password</th>
+                                                                            <td>:</td>
+                                                                            <td>Arepmelebu233</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <th>Jenis Kelamin</th>
+                                                                            <td>:</td>
+                                                                            <td>Laki-laki</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <th>Bagian</th>
+                                                                            <td>:</td>
+                                                                            <td>Customer Service</td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </div>
+
                                                                 <div class="h5-2-center"
                                                                     style="color:#1e1e1e; font-family:Arial, sans-serif; min-width:auto !important; font-size:16px; line-height:26px; text-align:center">
                                                                     If you did not update your settings, please <a
@@ -460,8 +470,7 @@
                                                                                                             class="link-white"
                                                                                                             style="color:#ffffff; text-decoration:none"><span
                                                                                                                 class="link-white"
-                                                                                                                style="color:#ffffff; text-decoration:none">MY
-                                                                                                                ACCOUNT</span></a>
+                                                                                                                style="color:#ffffff; text-decoration:none">LOGIN</span></a>
                                                                                                     </div>
                                                                                                 </td>
                                                                                                 <td class="img"
@@ -491,12 +500,12 @@
                                                                 width="20"></td>
                                                         </tr>
                                                     </table>
-                                                    <div class="fluid-img"
+                                                    {{-- <div class="fluid-img"
                                                         style="font-size:0pt; line-height:0pt; text-align:left">
                                                         <a href="#" target="_blank"><img
                                                                 src="https://d1pgqke3goo8l6.cloudfront.net/4MWQ1f1ETp2reRh3vLJr_img_6.jpg"
                                                                 border="0" width="600" height="220" alt="" /></a>
-                                                    </div>
+                                                    </div> --}}
                                                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
                                                         <tr>
                                                             <td class="content-spacing"
@@ -512,13 +521,13 @@
                                                                             &nbsp;</td>
                                                                     </tr>
                                                                 </table>
-                                                                <div class="text-2"
+                                                                {{-- <div class="text-2"
                                                                     style="color:#1e1e1e; font-family:Georgia, serif; min-width:auto !important; font-size:14px; line-height:22px; text-align:left">
                                                                     <em>Lorem ipsum dolor sit amet, consectetur
                                                                         adipisicing elit, sed do eiusmod tempor
                                                                         incididunt ut labore et dolore magna
                                                                         aliqua.</em>
-                                                                </div>
+                                                                </div> --}}
                                                                 <table width="100%" border="0" cellspacing="0"
                                                                     cellpadding="0" class="spacer"
                                                                     style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">
@@ -606,7 +615,7 @@
                                                                                                 height="28"
                                                                                                 alt="" /></a>
                                                                                     </td>
-                                                                                    <td class="img-center"
+                                                                                    {{-- <td class="img-center"
                                                                                         style="font-size:0pt; line-height:0pt; text-align:center"
                                                                                         width="38">
                                                                                         <a href="#" target="_blank"><img
@@ -614,7 +623,7 @@
                                                                                                 border="0" width="28"
                                                                                                 height="28"
                                                                                                 alt="" /></a>
-                                                                                    </td>
+                                                                                    </td> --}}
                                                                                 </tr>
                                                                             </table>
                                                                         </td>
@@ -696,22 +705,23 @@
                                         </table>
                                         <div class="text-footer"
                                             style="color:#666666; font-family:Arial, sans-serif; min-width:auto !important; font-size:12px; line-height:18px; text-align:center">
-                                            East Pixel Bld. 99,<span class="mobile-block"></span> Creative City
-                                            9000,<span class="mobile-block"></span> Republic of Design <br />
+                                            Serdang Asri 2 Blok D5 No. 23,<span class="mobile-block"></span>
+                                            Kab.Tangerang 15710,<span class="mobile-block"></span> Full Stack Web
+                                            Developer<br />
                                             <a href="http://www.YourSiteName.com" target="_blank" class="link-1"
                                                 style="color:#666666; text-decoration:none"><span class="link-1"
-                                                    style="color:#666666; text-decoration:none">www.YourSiteName.com</span></a>
+                                                    style="color:#666666; text-decoration:none">HelpDesk
+                                                    Ticketing</span></a>
                                             <span class="mobile-block"><span class="hide-for-mobile">|</span></span>
                                             <a href="mailto:email@yoursitename.com" target="_blank"
                                                 class="link-1" style="color:#666666; text-decoration:none"><span
                                                     class="link-1"
-                                                    style="color:#666666; text-decoration:none">email@yoursitename.com</span></a>
+                                                    style="color:#666666; text-decoration:none">gsatriono@gmail.com</span></a>
                                             <span class="mobile-block"><span class="hide-for-mobile">|</span></span>
-                                            Phone: <a href="tel:+1655606605" target="_blank" class="link-1"
-                                                style="color:#666666; text-decoration:none"><span
-                                                    class="link-1"
-                                                    style="color:#666666; text-decoration:none">+1 (655)
-                                                    606-605</span></a>
+                                            Phone: <a href="#" target="_blank" class="link-1"
+                                                style="color:#666666; text-decoration:none"><span class="link-1"
+                                                    style="color:#666666; text-decoration:none">+62 8788 8301
+                                                    3405</span></a>
                                         </div>
                                         <table width="100%" border="0" cellspacing="0" cellpadding="0"
                                             class="spacer"
